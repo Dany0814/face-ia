@@ -9,8 +9,8 @@ from urllib import request
 # Credenciales de Amazon
 # Requisitos: Tener un bucket disponible, en este caso el bucket es "unida"
 
-ACCESS_KEY = "AKIA25L3WLNNFO2SIWNH"
-SECRET_KEY = "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"
+ACCESS_KEY = " "
+SECRET_KEY = " "
 
 # Cliente s3 y listado de objetos del bucket
 
