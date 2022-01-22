@@ -1,17 +1,17 @@
 import cv2
 import threading
 import time
-from second import findEncodings
-from second import markAttendance
+# from second import findEncodings
+# from second import markAttendance
 import second
 import face_recognition
 import logging
-from numpy import np
+# from numpy import np
 
 logger = logging.getLogger(__name__)
 
 thread = None
-encodeListKnown = findEncodings()
+# encodeListKnown = findEncodings()
 images = []
 classNames = []
 
