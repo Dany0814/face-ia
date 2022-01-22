@@ -6,11 +6,13 @@ import face_recognition
 from datetime import datetime
 from urllib import request
 
+
+# Archivo de prueba local de reconocimiento facial
 # Credenciales de Amazon
 # Requisitos: Tener un bucket disponible, en este caso el bucket es "unida"
 
-ACCESS_KEY = "AKIA25L3WLNNFO2SIWNH"
-SECRET_KEY = "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"
+ACCESS_KEY = "AKIA25L3WLNNENDOSZFM"
+SECRET_KEY = "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"
 
 # Cliente s3 y listado de objetos del bucket
 
@@ -54,6 +56,7 @@ def findEncodings(images):
         print(f"img: {img} \n")
         encode = face_recognition.face_encodings(img)[0]
         encodeList.append(encode)
+        print(encodeList)
     return encodeList
 
 

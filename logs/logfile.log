@@ -1,0 +1,154 @@
+2022-01-22 04:38:28,814 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-01-22 04:38:29,609 [DEBUG] camera:: Starting thread
+2022-01-22 04:38:29,609 [DEBUG] camera:: Observation started
+2022-01-22 04:38:29,609 [INFO] camera:: Thread started
+2022-01-22 04:54:16,830 [DEBUG] __main__:: Starting server
+2022-01-22 04:54:21,799 [DEBUG] __main__:: Requested /
+2022-01-22 04:54:21,822 [DEBUG] __main__:: Requested last image
+2022-01-22 04:54:21,822 [DEBUG] __main__:: No last image
+2022-01-22 04:54:24,510 [DEBUG] __main__:: fotos codificadas
+2022-01-22 04:56:53,204 [DEBUG] __main__:: Starting server
+2022-01-22 04:57:04,303 [DEBUG] __main__:: Requested /
+2022-01-22 04:57:04,333 [DEBUG] __main__:: Requested last image
+2022-01-22 04:57:04,333 [DEBUG] __main__:: No last image
+2022-01-22 04:57:06,323 [DEBUG] __main__:: fotos codificadas
+2022-01-22 05:00:21,430 [DEBUG] __main__:: Requested /
+2022-01-22 05:00:21,447 [DEBUG] __main__:: Requested last image
+2022-01-22 05:00:21,447 [DEBUG] __main__:: No last image
+2022-01-22 05:00:40,519 [DEBUG] __main__:: fotos codificadas
+2022-01-22 05:03:25,939 [DEBUG] __main__:: Starting server
+2022-01-22 05:03:27,809 [DEBUG] __main__:: Requested /
+2022-01-22 05:03:27,840 [DEBUG] __main__:: Requested last image
+2022-01-22 05:03:27,840 [DEBUG] __main__:: No last image
+2022-01-22 05:03:29,536 [DEBUG] __main__:: Requested stream page
+2022-01-22 05:03:36,162 [DEBUG] __main__:: fotos codificadas
+2022-01-22 05:04:06,234 [DEBUG] __main__:: Starting server
+2022-01-22 05:04:15,560 [DEBUG] __main__:: Requested /
+2022-01-22 05:04:15,580 [DEBUG] __main__:: Requested last image
+2022-01-22 05:04:15,580 [DEBUG] __main__:: No last image
+2022-01-22 05:04:27,762 [DEBUG] __main__:: fotos codificadas
+2022-01-22 05:05:39,022 [DEBUG] __main__:: fotos codificadas
+2022-01-22 05:05:43,262 [DEBUG] __main__:: Requested /
+2022-01-22 05:05:43,276 [DEBUG] __main__:: Requested last image
+2022-01-22 05:05:43,276 [DEBUG] __main__:: No last image
+2022-01-22 05:05:45,328 [DEBUG] __main__:: fotos codificadas
+2022-01-22 05:06:06,510 [DEBUG] __main__:: Starting server
+2022-01-22 05:06:10,516 [DEBUG] __main__:: Requested /
+2022-01-22 05:06:10,541 [DEBUG] __main__:: Requested last image
+2022-01-22 05:06:10,541 [DEBUG] __main__:: No last image
+2022-01-22 05:06:12,344 [DEBUG] __main__:: fotos codificadas
+2022-01-22 05:07:05,386 [DEBUG] __main__:: Starting server
+2022-01-22 05:07:11,354 [DEBUG] __main__:: Requested /
+2022-01-22 05:07:11,394 [DEBUG] __main__:: Requested last image
+2022-01-22 05:07:11,394 [DEBUG] __main__:: No last image
+2022-01-22 05:07:13,627 [DEBUG] __main__:: fotos codificadas
+2022-01-22 05:10:31,021 [DEBUG] __main__:: Starting server
+2022-01-22 05:10:34,236 [DEBUG] __main__:: Requested /
+2022-01-22 05:10:34,264 [DEBUG] __main__:: Requested last image
+2022-01-22 05:10:34,264 [DEBUG] __main__:: No last image
+2022-01-22 05:10:36,005 [DEBUG] __main__:: fotos codificadas
+2022-01-22 05:15:22,510 [DEBUG] __main__:: Starting server
+2022-01-22 05:15:27,041 [DEBUG] __main__:: Requested /
+2022-01-22 05:15:27,068 [DEBUG] __main__:: Requested last image
+2022-01-22 05:15:27,068 [DEBUG] __main__:: No last image
+2022-01-22 05:15:28,486 [DEBUG] __main__:: fotos codificadas
+2022-01-22 05:18:02,215 [DEBUG] __main__:: Starting server
+2022-01-22 05:18:06,936 [DEBUG] __main__:: Requested /
+2022-01-22 05:18:06,976 [DEBUG] __main__:: Requested last image
+2022-01-22 05:18:06,976 [DEBUG] __main__:: No last image
+2022-01-22 05:18:08,128 [DEBUG] __main__:: fotos codificadas
+2022-01-22 05:24:59,908 [DEBUG] __main__:: Starting server
+2022-01-22 05:25:07,636 [DEBUG] __main__:: Requested /
+2022-01-22 05:25:07,679 [DEBUG] __main__:: Requested last image
+2022-01-22 05:25:07,679 [DEBUG] __main__:: No last image
+2022-01-22 05:25:11,890 [DEBUG] __main__:: fotos codificadas
+2022-01-22 05:41:25,369 [DEBUG] __main__:: Starting server
+2022-01-22 05:41:29,874 [DEBUG] __main__:: Requested /
+2022-01-22 05:41:29,907 [DEBUG] __main__:: Requested last image
+2022-01-22 05:41:29,907 [DEBUG] __main__:: No last image
+2022-01-22 05:41:32,794 [DEBUG] __main__:: fotos codificadas
+2022-01-22 05:58:47,666 [DEBUG] __main__:: Starting server
+2022-01-22 05:58:52,975 [DEBUG] __main__:: Requested /
+2022-01-22 05:58:53,009 [DEBUG] __main__:: Requested last image
+2022-01-22 05:58:53,009 [DEBUG] __main__:: No last image
+2022-01-22 05:58:54,211 [DEBUG] __main__:: fotos codificadas
+2022-01-22 06:00:56,011 [DEBUG] __main__:: Starting server
+2022-01-22 06:01:02,351 [DEBUG] __main__:: Requested /
+2022-01-22 06:01:02,369 [DEBUG] __main__:: Requested last image
+2022-01-22 06:01:02,370 [DEBUG] __main__:: No last image
+2022-01-22 06:01:03,469 [DEBUG] __main__:: fotos codificadas
+2022-01-22 06:01:04,996 [DEBUG] __main__:: Requested last image
+2022-01-22 06:01:04,997 [DEBUG] __main__:: No last image
+2022-01-22 06:02:54,202 [DEBUG] __main__:: Starting server
+2022-01-22 06:03:04,741 [DEBUG] __main__:: Requested /
+2022-01-22 06:03:04,796 [DEBUG] __main__:: Requested last image
+2022-01-22 06:03:04,796 [DEBUG] __main__:: No last image
+2022-01-22 06:03:10,597 [DEBUG] __main__:: fotos codificadas
+2022-01-22 06:03:12,368 [DEBUG] __main__:: Requested last image
+2022-01-22 06:03:12,368 [DEBUG] __main__:: No last image
+2022-01-22 06:03:43,682 [DEBUG] __main__:: fotos codificadas
+2022-01-22 06:03:45,273 [DEBUG] __main__:: Requested last image
+2022-01-22 06:03:45,273 [DEBUG] __main__:: No last image
+2022-01-22 06:07:02,522 [DEBUG] __main__:: Starting server
+2022-01-22 06:07:09,324 [DEBUG] __main__:: Requested /
+2022-01-22 06:07:09,354 [DEBUG] __main__:: Requested last image
+2022-01-22 06:07:09,354 [DEBUG] __main__:: No last image
+2022-01-22 06:07:12,308 [DEBUG] __main__:: fotos codificadas
+2022-01-22 06:07:13,979 [DEBUG] __main__:: Requested last image
+2022-01-22 06:07:13,979 [DEBUG] __main__:: No last image
+2022-01-22 06:07:27,192 [DEBUG] __main__:: fotos codificadas
+2022-01-22 06:07:28,698 [DEBUG] __main__:: Requested last image
+2022-01-22 06:07:28,698 [DEBUG] __main__:: No last image
+2022-01-22 06:08:26,850 [DEBUG] __main__:: Starting server
+2022-01-22 06:08:28,895 [DEBUG] __main__:: Requested /
+2022-01-22 06:08:28,926 [DEBUG] __main__:: Requested last image
+2022-01-22 06:08:28,926 [DEBUG] __main__:: No last image
+2022-01-22 06:08:46,316 [DEBUG] __main__:: fotos codificadas
+2022-01-22 06:10:52,768 [DEBUG] __main__:: Starting server
+2022-01-22 06:10:58,712 [DEBUG] __main__:: Requested /
+2022-01-22 06:10:58,740 [DEBUG] __main__:: Requested last image
+2022-01-22 06:10:58,740 [DEBUG] __main__:: No last image
+2022-01-22 06:11:02,406 [DEBUG] __main__:: fotos codificadas
+2022-01-22 06:11:03,872 [DEBUG] __main__:: Requested last image
+2022-01-22 06:11:03,872 [DEBUG] __main__:: No last image
+2022-01-22 06:16:50,518 [DEBUG] __main__:: Starting server
+2022-01-22 06:16:55,220 [DEBUG] __main__:: Requested /
+2022-01-22 06:16:55,254 [DEBUG] __main__:: Requested last image
+2022-01-22 06:16:55,254 [DEBUG] __main__:: No last image
+2022-01-22 06:17:05,204 [DEBUG] __main__:: fotos codificadas
+2022-01-22 06:17:06,744 [DEBUG] __main__:: Requested last image
+2022-01-22 06:17:06,744 [DEBUG] __main__:: No last image
+2022-01-22 12:23:33,175 [DEBUG] __main__:: Starting server
+2022-01-22 12:23:45,468 [DEBUG] __main__:: Requested /
+2022-01-22 12:23:45,488 [DEBUG] __main__:: Requested last image
+2022-01-22 12:23:45,489 [DEBUG] __main__:: No last image
+2022-01-22 12:24:27,554 [DEBUG] __main__:: Starting server
+2022-01-22 12:24:38,497 [DEBUG] __main__:: Requested /
+2022-01-22 12:24:38,516 [DEBUG] __main__:: Requested last image
+2022-01-22 12:24:38,516 [DEBUG] __main__:: No last image
+2022-01-22 12:24:54,772 [DEBUG] __main__:: fotos codificadas
+2022-01-22 12:25:01,593 [DEBUG] __main__:: Requested last image
+2022-01-22 12:25:01,593 [DEBUG] __main__:: No last image
+2022-01-22 13:45:36,318 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-01-22 13:45:36,498 [DEBUG] camera:: Starting thread
+2022-01-22 13:45:36,498 [DEBUG] camera:: Observation started
+2022-01-22 13:45:36,498 [INFO] camera:: Thread started
+2022-01-22 13:45:36,510 [DEBUG] __main__:: Starting server
+2022-01-22 13:45:40,637 [DEBUG] __main__:: Requested /
+2022-01-22 13:45:40,668 [DEBUG] __main__:: Requested last image
+2022-01-22 13:45:40,669 [DEBUG] __main__:: No last image
+2022-01-22 13:45:48,766 [DEBUG] __main__:: Requested stream page
+2022-01-22 13:45:48,776 [DEBUG] __main__:: Starting stream
+2022-01-22 15:09:50,846 [INFO] camera:: Initializing camera class with 20 fps and video_source=0
+2022-01-22 15:09:51,026 [DEBUG] camera:: Starting thread
+2022-01-22 15:09:51,026 [DEBUG] camera:: Observation started
+2022-01-22 15:09:51,027 [INFO] camera:: Thread started
+2022-01-22 15:09:51,038 [DEBUG] __main__:: Starting server
+2022-01-22 15:09:56,734 [DEBUG] __main__:: Requested /
+2022-01-22 15:09:56,757 [DEBUG] __main__:: Requested last image
+2022-01-22 15:09:56,757 [DEBUG] __main__:: No last image
+2022-01-22 15:10:15,089 [DEBUG] __main__:: fotos codificadas
+2022-01-22 15:10:16,791 [DEBUG] __main__:: Requested last image
+2022-01-22 15:10:16,791 [DEBUG] __main__:: No last image
+2022-01-22 15:10:21,767 [DEBUG] __main__:: Requested stream page
+2022-01-22 15:10:21,776 [DEBUG] __main__:: Starting stream
